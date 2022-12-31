@@ -1,5 +1,7 @@
 # babycare
 # BABY CARE
+## finalpro:Future Ready Talent Project By Chandhanapu Kowshik Kumar
+
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
 Web Technologies used: HTML, CSS, JS.
@@ -23,6 +25,9 @@ Azure Health Bot URL : https://lemon-forest-0dd593710.2.azurestaticapps.net/bot.
 App service URL:  https://babycarefrt.azurewebsites.net
 
 ## MY WEBSITE LINK IS : https://lemon-forest-0dd593710.2.azurestaticapps.net
+
+
+
 
 
 
